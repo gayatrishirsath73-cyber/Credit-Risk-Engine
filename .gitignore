@@ -1,0 +1,8 @@
+﻿credit_risk_env/
+.venv/
+__pycache__/
+*.py[cod]
+logs/
+.env
+.streamlit/secrets.toml
+.ipynb_checkpoints/
